@@ -4,8 +4,6 @@ We are excited to offer a crash course in practical machine learning (ML), open 
  
 The course will cover foundational concepts and classical methods in ML, as well as modern deep learning algorithms like convolutional neural networks, graph neural networks, and transformers. The format will be a mix of brief presentations and extended Jupyter notebook tutorials, with attendees encouraged to run code on their own computers as they follow along. No previous ML knowledge is needed, although to make the most out of the class attendees should be familiar with Python.
  
-The course will take place on Monday, Tuesday, and Wednesday, 10/27-10/29, from 5 pm to 6:30 pm, in ISEB 1010. The sign-up form can be found here. The enrollment is limited to 30 attendees, so we encourage interested people to sign up soon.
- 
 About the host: Dr. Gage DeZoort is an associate research scholar at Princeton University and a Visiting Fellow of the School of Physical Sciences at UC Irvine. His research focuses on numerical stability and efficient hyperparameter optimization in graph neural networks and graph transformers, and he is keenly interested in applying his models and techniques to scientific data sets. He has also taught several introductory ML mini courses throughout his career.
  
 Tentative schedule:
